@@ -13,7 +13,7 @@ int main(){
         vetor[i] = num * num;
     }
 
-    printf("\nO quadrado dos valores digitados !\n\n");
+    printf("\nImprimindo os valores ao quadrado salvos no vetor\n\n");
 
     /*imprimindo o quadrado dos 10 numeros digitados*/
     for (i = 0; i < 10; i++){
