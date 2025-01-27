@@ -8,7 +8,7 @@ int main(){
     int codigo_alunos[qtd_alunos];
 
     int i, qtd_feminina = 0, codigo_sexo;
-    float altura, media_geral, media_feminina, altura_geral = 0.00, altura_feminina = 0.00, maior_altura = 0.0, menor_altura = 0.0;
+    float altura, media_geral, media_feminina, altura_geral = 0.00, altura_feminina = 0.00, maior_altura, menor_altura;
 
     /*Recebendo a altura e o sexo*/
     for (i = 0; i < qtd_alunos; i++){
